@@ -15,4 +15,6 @@ npm install express
 npm install socket.io
 ```
 4. После всех подлючений и установок, для начала работы программы в терминале прописываем
-   ```node index```
+   ```
+   node index
+   ```
