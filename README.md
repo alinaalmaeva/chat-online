@@ -24,3 +24,9 @@ node index
 <br>
 в браузере вводим ссылку
 ```http://localhost:3000/```
+
+
+### Внешний вид программы
+Интерфейс программы можно рассмотреть по ссылке
+<br>
+https://alinaalmaeva.github.io/chat-online/
